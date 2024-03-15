@@ -1,0 +1,120 @@
+<html>
+<head><title> BOOK-03 </title>
+
+<style>
+
+.buttonstyle {width: 35%; height: 10%; font-size:32; color:#9A7B4F}
+
+</style>
+
+</head>
+
+<body>
+    <p id="pearls"><font size="16" face="arial"> 1. Who's the main antagonist of ATLA's Book 3: FIRE?</font><br></p>
+    
+<script>
+    
+    function alerto()
+      {alert('You are Correct!')}
+        
+       function alerto2()
+        {alert('Sorry! Please try again.')}
+
+
+</script>
+
+<button type="button" onclick="alerto2()" class="buttonstyle"> Firelord Bumi </button><br><br>
+<button type="button" onclick="alerto()" class="buttonstyle"> Firelord Ozai </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Firelord Tenzin </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Firelord Suguru </button><br><br>
+
+
+<p id="pearlsz"><font size="16" face="arial"> 2. Who is the firelord (main antagonist) 's daughter??</font><br></p>
+    
+<script>
+    
+    function alerto()
+      {alert('You are Correct!')}
+        
+       function alerto2()
+        {alert('Sorry! Please try again.')}
+
+
+</script>
+
+<button type="button" onclick="alerto()" class="buttonstyle"> Princess Azula </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Princess Zutara </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Princess Suki </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Princess Satoru </button><br><br>
+
+
+<p id="pearlsz"><font size="16" face="arial"> 3. Sokka and Zuko break into the _____________, the Fire Nation's highest security prison, to rescue Hakoda?</font><br></p>
+    
+<script>
+    
+    function alerto()
+      {alert('You are Correct!')}
+        
+       function alerto2()
+        {alert('Sorry! Please try again.')}
+
+
+</script>
+
+<button type="button" onclick="alerto2()" class="buttonstyle"> Ba Sing Se </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Malevolent Shrine </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Southern Water Tribe's Chamber </button><br><br>
+<button type="button" onclick="alerto()" class="buttonstyle"> The Boiling Rock Prison </button><br><br>
+
+
+<p id="pearlsz"><font size="16" face="arial"> 4. When this comet is at a near distance, firebenders are able to harness its energy, greatly increasing their powers</font><br></p>
+    
+<script>
+    
+    function alerto()
+      {alert('You are Correct!')}
+        
+       function alerto2()
+        {alert('Sorry! Please try again.')}
+
+
+</script>
+
+<button type="button" onclick="alerto2()" class="buttonstyle"> Hailey Comet </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Asami Comet </button><br><br>
+<button type="button" onclick="alerto()" class="buttonstyle"> Sozin's Comet </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> A hundred year Comet </button><br><br>
+
+
+<p id="pearlsz"><font size="16" face="arial"> 5. Who killed Katara's Mother?</font><br></p>
+    
+<script>
+    
+    function alerto()
+      {alert('You are Correct!')}
+        
+       function alerto2()
+        {alert('Sorry! Please try again.')}
+
+
+</script>
+
+<button type="button" onclick="alerto2()" class="buttonstyle"> General Iroh </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Sozin </button><br><br>
+<button type="button" onclick="alerto2()" class="buttonstyle"> Zukko </button><br><br>
+<button type="button" onclick="alerto()" class="buttonstyle"> Yon Rha </button><br><br>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+       
